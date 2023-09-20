@@ -1,3 +1,2 @@
-# BowArrowVR
-VR Archery Game
+# My First Git Repository
 I m Cheng Xue Wen
